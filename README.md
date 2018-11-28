@@ -2,8 +2,8 @@
 Artifact-free High Dynamic Range Imaging using patch based reconstruction 
 
 # Team Members
-1. Sanjana Gunna
-2. Sai Praneeth Chokkarapu
+1. Sanjana Gunna 20161110
+2. Sai Praneeth Chokkarapu  20161009
 
 # Reference 
 [HDR Imaging](https://www.ece.ucsb.edu/~psen/Papers/SIGASIA12_HDR_PatchBasedReconstruction_LoRes.pdf)
@@ -15,5 +15,5 @@ Artifact-free High Dynamic Range Imaging using patch based reconstruction
 3. To observe the results on a different dataset, make sure to include the images in the "Scenes" empty folder and change the filename correspondingly in the main.m file.
 
 ### Input Image Datasets Link
-[Scenes](https://drive.google.com/open?id=1dfOlCFr-loCLVFwpd4KoEtkEsn6N2GeQ)
-
+[Scenes](https://drive.google.com/open?id=1e7nRjimhmZLuDakJ5ohz9UlLxPK9Vzw6)
+[Output](https://drive.google.com/open?id=1dnNS3tXC1xq082ggF74Dg98Wu2XzFci-)
