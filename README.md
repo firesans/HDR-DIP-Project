@@ -11,8 +11,9 @@ Artifact-free High Dynamic Range Imaging using patch based reconstruction
 ## Run the code: 
 1. Download the zip file by doing a git-clone 
 2. Change the directory to codeBase 
-2. Run the main.m file present in the folder in matlab
-3. To observe the results on a different dataset, make sure to include the images in the "Scenes" empty folder and change the filename correspondingly in the main.m file.
+3. Download "Scenes" folder from the given link and put it in codeBase directory; filepath for a scene will then be 'codeBase/Scenes/scene_name'
+4. Choose a scene from the "Scenes" folder, change the same accordingly in the file main.m file present in codeBase directory. Run the code main.m and the output will be saved in the folder "codeBase/Results/scene_name". 
+5. To observe the results on a different dataset, create a folder including the LDR images and the file exposure.txt in the directory "Scenes" and change the scene_name in the main.m file accordingly.
 
 ### Input Image Datasets Link
 [Scenes](https://drive.google.com/open?id=1e7nRjimhmZLuDakJ5ohz9UlLxPK9Vzw6)
